@@ -1,4 +1,7 @@
 To run:
-pip install requests \n
-pip install bs4 \n
-python3 parser.py \n
+
+pip install requests
+
+pip install bs4
+
+python3 parser.py
